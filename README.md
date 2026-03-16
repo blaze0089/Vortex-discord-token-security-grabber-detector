@@ -36,7 +36,19 @@
 ```
 
 </div>
+<div align="center">
 
+## 🎬 Setup Guide & Demo
+
+<a href="https://github.com/vortex-commits/vortex-demo/releases/download/Demo/Demo-Guide.mp4">
+  <img src="Vortex_tool.png" width="85%" alt="Vortex Setup Guide">
+</a>
+
+**▶ Click the image to watch the full setup guide**
+
+</div>
+
+<br/> 
 ### ✨ Why Vortex is Different
 
 <table>
