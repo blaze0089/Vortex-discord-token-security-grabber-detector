@@ -40,7 +40,7 @@
 
 ## 🎬 Setup Guide & Demo
 
-<a href="https://github.com/vortex-commits/vortex-demo/releases/download/Demo/Demo-Guide.mp4">
+<a href="https://archive.org/details/demo-guide/Demo-Guide.mp4">
   <img src="Vortex_tool.png" width="85%" alt="Vortex Setup Guide">
 </a>
 
